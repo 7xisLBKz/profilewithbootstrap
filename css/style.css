@@ -126,7 +126,7 @@ section {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   gap: 4rem;
-  min-height: calc(100vh - 15rem);
+  min-height: calc(50vh - 15rem);
 }
 
 .home .image {
@@ -178,6 +178,7 @@ section {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   gap: 2rem;
+  min-height: calc(60vh - 15rem);
 }
 
 .about .image {
@@ -202,6 +203,7 @@ section {
   text-transform: uppercase;
   padding-bottom: 1rem;
 }
+
 
 .about .row .info-container .box-container {
   padding: 1rem 0;
